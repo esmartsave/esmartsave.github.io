@@ -1,6 +1,3 @@
----
-layot: default 
----
 ##<Malloy>web exercise
 #**Learning to publish a website**
 #Using Markdown **bold** and *italics* and creating topic headings

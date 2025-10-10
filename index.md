@@ -1,5 +1,5 @@
 ##<Malloy>web exercise
-#**Learning to publish a website**
+#Learning to publish a website
 #Using Markdown **bold** and *italics* and creating topic headings
 Writing in Markdown is *not* that hard!
 **I will complete these lessons!**
@@ -73,6 +73,7 @@ If you’d like to know more about these Markdown implementations, you’re welc
 - https://docs.gitlab.com/ee/user/markdown.html
 
 - https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+
 
 
 

@@ -1,5 +1,3 @@
-theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
 title: Publishing a website
-description: Coding and hosting easier: Markdown & Githug
-
-
+description: Coding and hosting easier: Markdown & Github

@@ -1,4 +1,5 @@
+theme: pages-themes/minimal@v0.2.0
 title: Publishing a website
 description: Coding and hosting easier: Markdown & Githug
-remote_theme: pages-themes/minimal@v0.2.0
+
 

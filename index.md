@@ -1,4 +1,4 @@
----layout: default
+---layout: default ---
 ##<Malloy>web exercise
 #**Learning to publish a website**
 #Using Markdown **bold** and *italics* and creating topic headings
@@ -76,4 +76,4 @@ If you’d like to know more about these Markdown implementations, you’re welc
 - https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
 
 
----
+

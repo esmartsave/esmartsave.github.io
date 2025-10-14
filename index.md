@@ -12,11 +12,12 @@ Writing in Markdown is *not* that hard!
 [You're **really, really** going to want to see this.](www.dailykitten.com)
 #### The Latest News from the [BBC](www.bbc.com/news)
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+
 ## Linking up images
-![Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg.
 ![Black cat][Black]
-![Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
+[Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 ![Orange cat][Orange]
+[Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
 # Blockquotes by using "greater than" caret (>). Remember if spaces are in between a quited paragraph, they must contain >
 I read this interesting quote the other day:
@@ -72,6 +73,7 @@ If you’d like to know more about these Markdown implementations, you’re welc
 - https://docs.gitlab.com/ee/user/markdown.html
 
 - https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+
 
 
 
